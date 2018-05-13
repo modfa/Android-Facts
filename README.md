@@ -1,4 +1,5 @@
 # 20 Interesting Facts About Android
+![Android](http://www.kickassfacts.com/wp-content/uploads/2016/11/Android-Lollipop-Statue-Google-HQ-640x428.jpg)
 
 1. Google did not create Android, they bought the company in 2005 
 
