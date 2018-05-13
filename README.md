@@ -31,7 +31,7 @@
 
 13. Android versions are named in Alphabetical order
 
-Below are the names of various Android versions:
+*Below are the names of various Android versions:*
 
 Name | Android Version
 ------------ | -------------
@@ -47,3 +47,19 @@ KitKat – Android 4.4 | 4.4.4
 Lollipop – Android 5.0 | 5.1.1
 Marshmallow – Android 6.0 | 6.0.1
 Nougat – Android 7.0 | 7.1
+
+14. The very first Android phone from 2008 had no headphone jack and required an adapter 
+
+15. In 2010, Anssi Vanjoki, CEO of Nokia, said that using Android is like a Finnish boy peeing his pants to stay warm 
+
+![Android](http://www.kickassfacts.com/wp-content/uploads/2016/11/Screen-Shot-2015-02-03-at-4.36.11-PM1.png)
+
+16. Google Maps calculates traffic by tracking how fast Android devices are moving on the road 
+
+17. Android Logging System has a method called wtf() which stands for “What a Terrible Failure” 
+
+18. Android devices sell more than Microsoft Windows, iOS, and Mac OS X devices combined 
+
+19. In each Android version, an Easter egg can be revealed by continuously clicking the version number in the “About” screen.
+
+20. In late 2008, many critics thought Android would fail miserably
